@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/eleanorextence/Desktop/Intro-to-programming/LP1-DataTypes/EE-LP1_1-Creating-first-project/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1032985180.index
+3410741674.index
