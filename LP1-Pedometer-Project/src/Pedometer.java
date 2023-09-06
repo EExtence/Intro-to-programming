@@ -12,7 +12,7 @@ final class PedometerReturnValues {
 }    
     
 class Main {
-    
+
     //creating method for calculations and storing final values
     public static PedometerReturnValues pedometerCalculator(String date, double steps) {
         //Declaring Constant variables :3 
@@ -27,7 +27,7 @@ class Main {
         double days_calories = days_miles * CALS_LOST_PER_MILE;
         int int_days_calories = (int)days_calories;
 
-        //create object from PedometerReturnValues class and store new values in said object
+        //create object from PedometerReturnValues class and store new values in said object's attributese
         PedometerReturnValues pedometer_return_vaules = new PedometerReturnValues();
         pedometer_return_vaules.final_miles = int_days_miles;
         pedometer_return_vaules.final_calories = int_days_calories;
